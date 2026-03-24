@@ -27,6 +27,8 @@ This commands includes
 <BR>
 
 ## Output
+1.netstat
+  <img width="1690" height="785" alt="Screenshot 2026-03-24 134615" src="https://github.com/user-attachments/assets/4c12dde2-3f2f-4472-ab5a-2fc01bc40ca3" />
 
 ## Result
 Thus Execution of Network commands Performed 
